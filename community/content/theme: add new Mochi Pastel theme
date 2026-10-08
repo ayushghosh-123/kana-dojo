@@ -376,5 +376,11 @@
   "backgroundColor": "oklch(20.0% 0.025 260.0 / 1)",
   "mainColor": "oklch(70.0% 0.180 145.0 / 1)",
   "secondaryColor": "oklch(80.0% 0.120 50.0 / 1)"
+},
+{
+  "id": "pachinko-hall",
+  "backgroundColor": "oklch(18.0% 0.042 325.0 / 1)",
+  "mainColor": "oklch(90.0% 0.115 95.0 / 1)",
+  "secondaryColor": "oklch(75.0% 0.195 340.0 / 1)"
 }
 ]
